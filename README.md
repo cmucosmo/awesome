@@ -1,5 +1,6 @@
 awesome
 =======
 
-Awesome *science* project
+Awesome *science* project with multiple authors.
+
 
