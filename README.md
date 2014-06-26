@@ -1,4 +1,5 @@
 awesome
 =======
 
-Awesome project
+Awesome *science* project
+
